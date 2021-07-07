@@ -1,4 +1,3 @@
 # Test Title
-**Description:** This is a new code exchange entry\
-**Platforms:** unix
---
+**Description:** This is a new description
+**Platforms:** Windows;Unix
