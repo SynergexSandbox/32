@@ -1,3 +1,3 @@
-# Test Title\
+# Test Title
 **Description:** Another description\
-**Platforms:** Windows;Unix\
+**Platforms:** Windows;Unix
