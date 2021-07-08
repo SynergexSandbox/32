@@ -1,3 +1,3 @@
 # Test title
-**Description:** dasdwqeqwd\
+**Description:** dasdwqeqwd
 **Platforms:** Windows;Unix
